@@ -1,0 +1,146 @@
+.div1 {
+    background-color:cornsilk;
+    border: solid 2px;
+    margin: 10px 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.header1 {
+    background-color: antiquewhite;
+    text-align: center;
+   
+}
+
+.content1 {
+    background-color: aliceblue;
+    border: solid 2px;
+    margin: 10px 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+img {
+    border: 2px solid aliceblue;
+    border-radius: 15px;
+    padding: 2px;
+    width: 450px;
+}
+
+img:hover {
+    border: 10px solid greenyellow;
+    border-radius:300px;
+    padding: 2px;
+    width: 450px;
+    transform: scaleX(-1);
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+blockquote {
+    font-weight: bold;
+    font-size: 30px;
+    display:block;
+    margin: 10px 240px;
+    padding: 5px 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color:chocolate;
+    color: black;
+  }
+
+blockquote:hover {
+    font-weight: bold;
+    font-size: 35px;
+    display:block;
+    margin: 10px 300px;
+    padding: 5px 5px;
+    border: 3px solid rebeccapurple;
+    border-radius: 40px;
+    background-color:chocolate;
+    color: aliceblue;
+  }
+ul {
+    list-style-type:circle ;
+    margin: 10px 150px;
+    padding: 10px 10px;
+    overflow:visible; 
+}
+
+ol {
+    list-style-type:A ;
+    margin: 10px 150px;
+    padding: 10px 10px;
+    overflow:visible; 
+}
+
+#content1a {
+    background-color:greenyellow;
+    border: solid 2px;
+    margin: 5px 70px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#content1b {
+    background-color:darkorange;
+    border: solid 2px;
+    margin: 5px 70px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#suka1 {
+    color: blue;
+    background-color:white
+}
+
+#taksuka1 {
+    color: red;
+    background-color: white;
+}
+
+#close1 {
+    color: blueviolet;
+    background-color: yellow;
+}
+
+#close1:hover {
+    color: white;
+    background-color: blue;
+}
+
+#question1 {
+    display:block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 100px;
+    padding: 5px 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+    color: aliceblue;
+}
+
+#question1:hover {
+    display:block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 200px;
+    padding: 5px 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+    color: black;
+}
+
+#namakereta1 {
+    color: brown;
+    font-size: 18px;
+    background-color:aliceblue;
+}
